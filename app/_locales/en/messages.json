@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "affiliate linker extension",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "aff-linker",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Always use the affiliate links of creators you support",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "affiliate linker extension",
+    "description": "The title of the browser action button"
+  }
+}

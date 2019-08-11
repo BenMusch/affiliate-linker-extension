@@ -1,0 +1,12 @@
+{
+  "name": "affiliate-linker-extension",
+  "version": "0.0.1",
+  "description": "Always use the affiliate links of creators you support",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}
