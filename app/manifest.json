@@ -9,6 +9,12 @@
     "16": "images/icon-16.png",
     "128": "images/icon-128.png"
   },
+  "content_scripts": [
+    {
+      "matches": ["*://*.amazon.com/*"],
+      "js": ["scripts/amazonDP.js"]
+    }
+  ],
   "background": {
     "scripts": [
       "scripts/background.js"
