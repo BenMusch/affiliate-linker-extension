@@ -10,6 +10,6 @@
     "webextension-toolbox": "latest"
   },
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   }
 }
